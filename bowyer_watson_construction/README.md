@@ -4,5 +4,3 @@ Repozytorium zawiera notatnik Jupyter, w którym zaimplementowano algorytm Bowey
 zadanej chmury punktów, a naspenie na jej podstawie obliczający diagram Woronoja dualny do tej triangulacji. Notatnik zawiera również
 metody do wizualizacji wyników algorytmu oraz wizualizację poszczególnych etapów działania algorytmu. Plik BowyerWatson.py zawiera testy
 wydajnościowe zaimplementowanego algorytmu, natomiast w folderze report znajduje się sprawozdanie opisujące wszystkie elementy projektu.
-
-## Przykładowe wyniki
