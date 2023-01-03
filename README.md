@@ -20,3 +20,4 @@ projektu oraz prezentacja.
 ![](report/figs/voronoi2.png)
 ![](report/figs/voronoi3.png)
 ![](report/figs/approx.png)
+![](report/figs/grid.png)
